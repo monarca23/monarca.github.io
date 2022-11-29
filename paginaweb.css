@@ -1,0 +1,304 @@
+.main{
+    background-image:  linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("https://viajareapanama.com/wp-content/uploads/2020/06/veraguas.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.logo{
+ height: 50%;
+ width: 5%;
+ margin-left: 0.5cm;
+ margin-top: 0.7cm;
+ border-radius: 50%;
+ 
+}
+
+.menu{
+    background-color: rgb(202, 206, 203); 
+    opacity: .8;
+   margin-left: -1em;
+   margin-top: -2em;
+   margin-bottom:-1em ;
+   margin-right:-10px ;
+   height: 105px;
+  
+
+
+}
+
+a:link {
+    color:white;
+    
+}
+
+a:visited{
+color: white;
+}
+
+a:hover{
+    color: #379b8d;
+}
+
+.menu-container{
+margin-top: 1em;
+}
+
+
+h1 {
+    font-family: "Vidaloka";
+    font-size: 60px;
+    text-align: "center";
+}
+
+
+li {
+    float: left;
+}
+
+ul{ 
+    display: flex ;
+    justify-content: center;
+    justify-content: space-evenly;
+    list-style: none;
+    margin: 0 0 1rem;
+    align-items: start;
+    margin-top: -3rem;
+    
+}
+
+a.homeActivo{
+color: #e77d1e;
+}
+
+.frase{
+    color: white;
+    height: 30rem;
+    width: 46rem;
+    margin-top: 4rem;
+   font-size: 540%;
+   line-height: 3cm;
+
+}
+
+.dropdown{
+ align-items: inline-block;
+ position: relative;
+}
+
+.rectangulo{
+    width: 250px;
+    height: 100px;
+    background-color: #305316;
+}
+
+#promo1{
+width: 5%;
+height: 5%;
+}
+   
+
+.promo1{
+    width: 5%;
+    height: 5%;
+    margin-left: 75rem;
+    margin-bottom: 1rem;
+}
+
+/* de aquí hacía abajo es sobre ABOUT US*/
+
+
+.tortuga{
+    display: inline-block;
+    position: relative;
+    width: 101.6%;
+    margin-top: 16px;
+    margin-left: -11px;
+   filter: brightness(.7);
+}
+
+.Eco{
+ line-height: .5;
+ letter-spacing: 0.7mm;
+ color: #ffffff;
+ text-indent: 0.5cm;
+
+ text-align: left;
+ font-style: italic;
+ font-size: 1cm ;
+ position: absolute;
+ margin-top: -13%;
+ 
+ 
+ color: #ffffff;
+ 
+}
+.Travel{
+    line-height: .5;
+    letter-spacing: 0.7mm;
+    color: #ffffff;
+    text-indent: 0.5cm;
+    
+    text-align: left;
+ font-style: italic;
+ font-size: .7cm ;
+ position: absolute;
+ margin-top: -10%;
+
+   }
+
+.ouragency{
+    text-align: center;
+}
+
+.uno{
+ text-align: center;
+ font-style: italic;
+ font-size: 1cm ;
+}
+
+.dos{
+    text-align: center;
+    font-size: .7cm;
+}
+
+.iconos{
+ 
+    margin-left: 200px;
+}
+
+.camping{
+    margin-left: 25px;
+}
+
+/* De aquí hacia abajo es SERVICES */
+
+
+
+
+
+.arbolitos{
+    display: inline-block;
+    position: relative;
+    width: 101.5%;
+    margin-top: 16px;
+    margin-left: -10px;
+   filter: brightness(.7);
+}
+
+.great{
+text-align: center;
+ font-style: italic;
+ font-size: 1cm ;
+ position: absolute;
+ margin-top: -20%;
+ margin-left: 37%;
+ 
+ color: #ffffff;
+}
+.secont{
+    text-align: center;
+     font-style: italic;
+     font-size: 0.7cm ;
+     position: absolute;
+     margin-top: -17%;
+     margin-left: 32%;
+     color: #ffffff;
+    }
+
+    #bus{
+        width: 4%;
+        margin-left: 80%;
+        margin-top: -1.9cm;
+        position: absolute;
+        
+    }
+    #busitolinea{
+        font-size: 0.7cm;
+        text-align: center;
+        margin-left: -40px;
+    }
+
+    p.verde{
+        text-align: center;
+        color: #305316;
+        font-size: .9cm;
+    }
+
+    p.normal{
+        text-align: center;
+        font-size: 0.8cm;
+
+    }
+    .LaYeguada{
+     background-color: #ffffff;
+     width: 500px ;
+     height: 340px;
+     float: right;
+     margin-right: 150px;
+     margin-top: 50px;
+    }
+
+    .imgyeguada{
+        width: 40%;
+        float: left;
+        margin-left: 50px;
+        margin-top: 50px;
+    }
+
+    .Pacific{
+        background-color: #ffffff;
+        width: 500px ;
+        height: 340px;
+        float: left;
+        margin-left: 50px;
+        margin-top: 150px;
+       }
+   
+       .imgPacific{
+           width: 40%;
+           float: right;
+           margin-right: 150px;
+           margin-top: 150px;
+       }
+
+       .Silampa{
+        background-color: #ffffff;
+        width: 500px ;
+        height: 440px;
+        float: right;
+        margin-right: 150px;
+        margin-top: 250px;
+       }
+   
+       .imgsilampa{
+           width: 30%;
+           float: left;
+           margin-left: 100px;
+           margin-top: 200px;
+       }
+
+       /* De aquí hacia abajo es RESERVE */
+
+
+
+
+
+
+
+       /* De aquí hacia abajo es CONTACT*/ 
+       .Contact{
+        background-image:  linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("hiking.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+     }
+        .menu1{
+            background-color: rgb(202, 206, 203); 
+            opacity: .8;
+           margin-left: -1em;
+           margin-top: -2em;
+           margin-bottom:-100px ;
+           margin-right:-10px ;
+           height: 104px;
+           
+    }
